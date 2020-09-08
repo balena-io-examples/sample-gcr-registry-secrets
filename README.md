@@ -1,6 +1,6 @@
-# sample-gcr-registry-secrets
+# Sample usage of the balena CLI `--registry-secrets` option with GCR
 
-Sample [registry
+Sample balena CLI [registry
 secrets](https://www.balena.io/docs/learn/deploy/deployment/#private-base-images)
 usage for private base images hosted with the [Google Container
 Registry](https://cloud.google.com/container-registry/) service.
